@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="member.Member"/>
+<fullyQualifiedTypeName name="member.service.MemberService"/>
+<fullyQualifiedTypeName name="member.service.impl.MemberServiceImpl"/>
+<fullyQualifiedTypeName name="member.repository.MemberRepository"/>
+<fullyQualifiedTypeName name="member.repository.impl.MemoryMemberRepository"/>
+</qualifiedTypeNameHistroy>

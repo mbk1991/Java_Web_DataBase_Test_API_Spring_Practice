@@ -1,0 +1,26 @@
+package member.service.impl;
+
+import member.Member;
+import member.service.MemberService;
+
+public class MemberServiceImpl implements MemberService{
+
+	@Override
+	public void join(Member member) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void login(Member member) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void logout(Member member) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

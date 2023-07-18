@@ -1,0 +1,31 @@
+package member.service.impl;
+
+import member.Member;
+import member.repository.MemberRepository;
+import member.repository.impl.MemoryMemberRepository;
+import member.service.MemberService;
+
+public class MemberServiceImpl implements MemberService{
+	MemberRepository mr = new MemoryMemberRepository();
+	
+	@Override
+	public void join(Member member) {
+		mr.insertMember(member);
+	}
+
+	@Override
+	public void login(Member member) {
+		
+	}
+
+	@Override
+	public void logout(Member member) {
+		
+	}
+
+	@Override
+	public void findMember(Member member) {
+		
+	}
+
+}

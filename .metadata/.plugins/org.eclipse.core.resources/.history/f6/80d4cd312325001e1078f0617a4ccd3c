@@ -1,0 +1,7 @@
+package member.repository;
+
+public interface MemberRepository {
+	void insertMember();
+	void selectAllMember();
+	void selectMemberId();
+}

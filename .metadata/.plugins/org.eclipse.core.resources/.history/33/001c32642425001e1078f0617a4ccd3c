@@ -1,0 +1,28 @@
+package member.repository.impl;
+
+import java.util.Map;
+
+import member.Member;
+import member.repository.MemberRepository;
+
+public class MemoryMemberRepository implements MemberRepository{
+
+	@Override
+	public void insertMember() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Map<String, Member> selectAllMember() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Member selectMemberById() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

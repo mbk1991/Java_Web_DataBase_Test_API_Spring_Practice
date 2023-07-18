@@ -1,0 +1,18 @@
+package member;
+
+import member.service.MemberService;
+import member.service.impl.MemberServiceImpl;
+
+public class MemberApp {
+	public static void main(String[] args) {
+		MemberService ms = new MemberServiceImpl();
+		
+		Member m1 = new Member(1L,"memberA","pass01");
+		ms.join(m1);
+		Member findMember = ms.findMember(m1);
+		
+		System.out.println("m1"+ m1.getName());
+		System.out.println("findMember" + findMember.getName());
+				
+	}
+}

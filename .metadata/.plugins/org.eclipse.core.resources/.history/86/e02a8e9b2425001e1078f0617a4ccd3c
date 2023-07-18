@@ -1,0 +1,19 @@
+package member.service.impl;
+
+import member.service.MemberService;
+
+public class MemberServiceImpl implements MemberService{
+
+	@Override
+	public void join() {
+	}
+
+	@Override
+	public void login() {
+	}
+
+	@Override
+	public void logout() {
+	}
+
+}

@@ -1,0 +1,10 @@
+package member.repository;
+
+import member.Member;
+import java.util.Map;
+
+public interface MemberRepository {
+	void insertMember();
+	Map<Member> selectAllMember();
+	Member selectMemberById();
+}

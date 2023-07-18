@@ -1,0 +1,26 @@
+package member.repository.impl;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import member.Member;
+import member.repository.MemberRepository;
+
+public class MemoryMemberRepository implements MemberRepository{
+	private Map<String,Member> map = new HashMap<>();
+	
+	@Override
+	public void insertMember() {
+	}
+
+	@Override
+	public Map<String, Member> selectAllMember() {
+		return null;
+	}
+
+	@Override
+	public Member selectMemberById() {
+		return null;
+	}
+
+}
