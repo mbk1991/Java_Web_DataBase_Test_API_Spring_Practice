@@ -1,5 +1,6 @@
 package member;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import member.service.MemberService;
@@ -14,6 +15,8 @@ public class MemberApp {
 		
 		AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
 		MemberService ms = (MemberService) ac.getBean("memberServiceImpl");
+		
+		
 		
 		Member m1 = new Member(1L,"memberA","pass01");
 		ms.join(m1);

@@ -1,5 +1,7 @@
 package member.service.impl;
 
+import org.springframework.stereotype.Component;
+
 import member.Member;
 import member.repository.MemberRepository;
 import member.service.MemberService;
