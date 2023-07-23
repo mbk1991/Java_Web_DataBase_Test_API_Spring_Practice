@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="MemberTest.joinTest" project="SpringPractice1" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="member.MemberTest" time="0.031" displayname="MemberTest" uniqueid="[engine:junit-jupiter]/[class:member.MemberTest]">
-    <testcase name="joinTest" classname="member.MemberTest" time="0.031" displayname="회원가입 테스트" uniqueid="[engine:junit-jupiter]/[class:member.MemberTest]/[method:joinTest()]"/>
-  </testsuite>
-</testrun>
