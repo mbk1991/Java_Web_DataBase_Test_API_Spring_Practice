@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbb0e0cd-309d-4b0d-bdc0-c9ece93f3ba7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringPractice2/SpringPractice/SpringPractice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SpringPractice2/SpringPractice/SpringPractice/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringPractice2/SpringPractice/SpringPractice/src/test/java/mabb/tistory/SpringPractice/SpringPracticeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringPractice2/SpringPractice/SpringPractice/src/test/java/mabb/tistory/SpringPractice/SpringPracticeApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2T6Xueq04NlSudTFCDFf8LIPmZ7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/DevWorkSpace/Exercise/TotalPractice/Java_Web_DataBase_Test_API_Spring_Practice"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb0e0cd-309d-4b0d-bdc0-c9ece93f3ba7" name="Changes" comment="" />
+      <created>1690364727500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690364727500</updated>
+    </task>
+    <servers />
+  </component>
+</project>
