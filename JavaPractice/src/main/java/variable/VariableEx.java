@@ -1,6 +1,11 @@
 package main.java.variable;
 
 public class VariableEx {
+	
+	/**
+	 * 자바독 html 파일이 생성되는지 확인
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		
 		//2진수 리터럴의 접두어 0b
@@ -19,5 +24,6 @@ public class VariableEx {
 //		int i = 1_000_000_000;
 //		System.out.println(i);
 		
+		System.out.println("Hello World!");
 	}
 }

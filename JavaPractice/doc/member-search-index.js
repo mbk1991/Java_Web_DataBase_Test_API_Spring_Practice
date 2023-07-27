@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"main.java.variable","c":"VariableEx","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"main.java.variable","c":"VariableEx","l":"VariableEx()","u":"%3Cinit%3E()"}];updateSearchResults();
